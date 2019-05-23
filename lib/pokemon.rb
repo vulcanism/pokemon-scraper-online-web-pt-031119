@@ -18,7 +18,7 @@ class Pokemon
     type = pokemon[2]
     hp = pokemon[3]
     
-    new_pokemon = 
+    new_pokemon = self.new()
   end
   
 end
